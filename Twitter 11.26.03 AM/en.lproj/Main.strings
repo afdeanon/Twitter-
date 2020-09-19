@@ -1,0 +1,15 @@
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "1MQ-Hl-FvS"; */
+"1MQ-Hl-FvS.title" = "Logout";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "Du5-zL-rRY"; */
+"Du5-zL-rRY.text" = "John Doe";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "QTG-CM-iFm"; */
+"QTG-CM-iFm.normalTitle" = "Login";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "ZUi-WK-hEF"; */
+"ZUi-WK-hEF.title" = "Home";
+
+/* Class = "UILabel"; text = "Tweet Content"; ObjectID = "lC3-ER-JQK"; */
+"lC3-ER-JQK.text" = "Tweet Content";
