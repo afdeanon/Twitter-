@@ -138,7 +138,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eXd-it-XX0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <barButtonItem title="Item" id="3bP-FD-YuM"/>
             </objects>
-            <point key="canvasLocation" x="790" y="179"/>
+            <point key="canvasLocation" x="749" y="179"/>
         </scene>
     </scenes>
 </document>
