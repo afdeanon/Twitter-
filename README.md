@@ -24,6 +24,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/AFKn5Hq7hw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
